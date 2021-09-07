@@ -7,7 +7,7 @@ Outils utilisés et descritpion de la façon dont j'ai procédé:
 
 Outils utilisés : 
 
-Wamp
+Wamp : :  une plateforme de développement pour faire fonctionner localement des scripts PHP
 IDE : visual studio code
 
 
@@ -36,3 +36,13 @@ CREATE TABLE touriste
 	    mail varchar(80)NOT NULL,
 	    newsletter TINYINT(1)
 )
+
+Impressions et Difficultés rencontrées
+
+Je suis contente d'avoir réalisé cet exercice.
+Je n'ai pas beaucoup passé de temps sur PHP en formation,donc le langage utilisé a représenté pour moi 
+la plus grosse difficulté. Je suis aller rechercher dans mes cours et sur internet pour la syntaxe. J'ai été contente de faire de l'intégration, ayant suivi 
+une formation plus axés sur le developpement backend, je trouve toujours intéressant de faire des exercices de front.   
+
+
+Temps estimé : 2 après-midi
